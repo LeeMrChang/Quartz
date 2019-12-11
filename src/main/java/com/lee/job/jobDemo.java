@@ -10,6 +10,10 @@ package com.lee.job;
 public class jobDemo {
 
     public void run(){
+
+        System.out.println("job execute...");
+        System.out.println("job execute...");
+        System.out.println("job execute...");
         System.out.println("job execute...");
     }
 
